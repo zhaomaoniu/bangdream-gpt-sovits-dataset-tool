@@ -1,4 +1,4 @@
-# BangDream GPT-SoVITS Dataset Tool
+# BanGDream GPT-SoVITS Dataset Tool
 
 这是一个用于生成 BanG Dream! GPT-SoVITS 数据集的工具。通过从 [Bestdori](https://bestdori.com/) 获取活动剧情数据和语音数据，整理生成用于训练 GPT-SoVITS 模型的数据集。
 
