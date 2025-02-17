@@ -1,0 +1,15 @@
+[project]
+name = "bangdream-gpt-sovits-dataset-tool"
+version = "0.1.0"
+description = "Some scripts that helps you prepare GPT-SoVITS datasets easily"
+authors = [
+    {name = "zhaomaoniu", email = "2667292003@qq.com"},
+]
+dependencies = ["aiohttp>=3.10.11"]
+requires-python = ">=3.8"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
